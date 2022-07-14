@@ -10,15 +10,14 @@ Link https://codepen.io/AlexGolovanov/pen/LYQWYxj
 
 ---
 
-[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/MWQZmYN)
+[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/LYQWYxj)
 
-![clock](readme/clock.gif)
+![popup](readme/popup.gif)
 
 ## Info
 
 Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).  
-Для обучения и отработки работы c JavaScript.  
-Анимированные часы с изменением и подсветкой в зависимости от времени.
+Для обучения и отработки работы c CSS и JavaScript.  
 
 ---
 
