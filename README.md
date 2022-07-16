@@ -16,6 +16,7 @@
 
 Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).  
 Для обучения и отработки работы c CSS и JavaScript.  
+Простой всплывающийся поп-ап.
 
 ---
 
