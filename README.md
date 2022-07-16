@@ -1,4 +1,4 @@
-# Simple-Popup-Box
+# Simple Pop-up Box
 
 ### Use Skills
 
